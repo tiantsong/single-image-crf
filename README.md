@@ -9,7 +9,7 @@ T.-T. Ng,“Camera Response Function Signature For Digital Forensics– Part II:
 
 # To get started:
 
-1) Download image and parameter data from http://1drv.ms/1OrdQ43
+1) Download image and parameter data from <a href="https://drive.google.com/file/d/0BwHrTmiHZpQCMWpXRk9WSDl4U2s/view?usp=sharing"> Google Drive </a>
 
 2) Unzip the folders to the main directory
 
